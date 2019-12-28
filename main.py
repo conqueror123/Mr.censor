@@ -37,7 +37,7 @@ if __name__ == "__main__":
     except:
         pass
 
-    print("Main process : ",os.getpid())
+    print("Main procss : ",os.getpid())
 
     start = 0
     end = int(duration/4)
